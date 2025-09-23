@@ -1,2 +1,3 @@
-# goit-markup-hw-02
-my second hw
+# goit-markup-hw-01
+
+first repository
